@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+
+body {
+	font-family: 'Josefin Sans', sans-serif;
+	margin: 0;
+}
+.container {
+	max-width: 1200px;
+	width: 100%;
+	margin: 10px auto;
+	}
+.hero {
+	background-image: url(https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/8T9Y244TK8.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 75vh;
+	width: 100%;
+	color: #FFF;
+}
+.hero h1 {
+	padding-top: 80px;
+}
+.gallery img {
+	margin: 10px auto;
+}
